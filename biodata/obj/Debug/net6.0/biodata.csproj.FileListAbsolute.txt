@@ -1,0 +1,15 @@
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.csproj.AssemblyReference.cache
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.AssemblyInfoInputs.cache
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.AssemblyInfo.cs
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.csproj.CoreCompileInputs.cache
+D:\bljr-c#\biodata\bin\Debug\net6.0\biodata.exe
+D:\bljr-c#\biodata\bin\Debug\net6.0\biodata.deps.json
+D:\bljr-c#\biodata\bin\Debug\net6.0\biodata.runtimeconfig.json
+D:\bljr-c#\biodata\bin\Debug\net6.0\biodata.dll
+D:\bljr-c#\biodata\bin\Debug\net6.0\biodata.pdb
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.dll
+D:\bljr-c#\biodata\obj\Debug\net6.0\refint\biodata.dll
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.pdb
+D:\bljr-c#\biodata\obj\Debug\net6.0\biodata.genruntimeconfig.cache
+D:\bljr-c#\biodata\obj\Debug\net6.0\ref\biodata.dll
