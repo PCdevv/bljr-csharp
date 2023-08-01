@@ -1,0 +1,15 @@
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.csproj.AssemblyReference.cache
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.AssemblyInfoInputs.cache
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.AssemblyInfo.cs
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.csproj.CoreCompileInputs.cache
+D:\bljr-c#\LuasLingkaran\bin\Debug\net6.0\LuasLingkaran.exe
+D:\bljr-c#\LuasLingkaran\bin\Debug\net6.0\LuasLingkaran.deps.json
+D:\bljr-c#\LuasLingkaran\bin\Debug\net6.0\LuasLingkaran.runtimeconfig.json
+D:\bljr-c#\LuasLingkaran\bin\Debug\net6.0\LuasLingkaran.dll
+D:\bljr-c#\LuasLingkaran\bin\Debug\net6.0\LuasLingkaran.pdb
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.dll
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\refint\LuasLingkaran.dll
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.pdb
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\LuasLingkaran.genruntimeconfig.cache
+D:\bljr-c#\LuasLingkaran\obj\Debug\net6.0\ref\LuasLingkaran.dll
