@@ -1,0 +1,15 @@
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.csproj.AssemblyReference.cache
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.AssemblyInfoInputs.cache
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.AssemblyInfo.cs
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.csproj.CoreCompileInputs.cache
+D:\bljr-c#\PendaftaranPenduduk\bin\Debug\net6.0\PendaftaranPenduduk.exe
+D:\bljr-c#\PendaftaranPenduduk\bin\Debug\net6.0\PendaftaranPenduduk.deps.json
+D:\bljr-c#\PendaftaranPenduduk\bin\Debug\net6.0\PendaftaranPenduduk.runtimeconfig.json
+D:\bljr-c#\PendaftaranPenduduk\bin\Debug\net6.0\PendaftaranPenduduk.dll
+D:\bljr-c#\PendaftaranPenduduk\bin\Debug\net6.0\PendaftaranPenduduk.pdb
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.dll
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\refint\PendaftaranPenduduk.dll
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.pdb
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\PendaftaranPenduduk.genruntimeconfig.cache
+D:\bljr-c#\PendaftaranPenduduk\obj\Debug\net6.0\ref\PendaftaranPenduduk.dll
