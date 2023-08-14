@@ -1,0 +1,15 @@
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\bin\Debug\net6.0\Kalkulator_PuteriCitraDewi.exe
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\bin\Debug\net6.0\Kalkulator_PuteriCitraDewi.deps.json
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\bin\Debug\net6.0\Kalkulator_PuteriCitraDewi.runtimeconfig.json
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\bin\Debug\net6.0\Kalkulator_PuteriCitraDewi.dll
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\bin\Debug\net6.0\Kalkulator_PuteriCitraDewi.pdb
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.csproj.AssemblyReference.cache
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.AssemblyInfoInputs.cache
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.AssemblyInfo.cs
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.csproj.CoreCompileInputs.cache
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.dll
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\refint\Kalkulator_PuteriCitraDewi.dll
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.pdb
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\Kalkulator_PuteriCitraDewi.genruntimeconfig.cache
+D:\bljr-c#\Kalkulator_PuteriCitraDewi\obj\Debug\net6.0\ref\Kalkulator_PuteriCitraDewi.dll
