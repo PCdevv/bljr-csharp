@@ -1,0 +1,15 @@
+D:\bljr-c#\LoginForm\bin\Debug\net6.0-windows\LoginForm.exe
+D:\bljr-c#\LoginForm\bin\Debug\net6.0-windows\LoginForm.deps.json
+D:\bljr-c#\LoginForm\bin\Debug\net6.0-windows\LoginForm.runtimeconfig.json
+D:\bljr-c#\LoginForm\bin\Debug\net6.0-windows\LoginForm.dll
+D:\bljr-c#\LoginForm\bin\Debug\net6.0-windows\LoginForm.pdb
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.AssemblyReference.cache
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfoInputs.cache
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfo.cs
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.dll
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\refint\LoginForm.dll
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.pdb
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\LoginForm.genruntimeconfig.cache
+D:\bljr-c#\LoginForm\obj\Debug\net6.0-windows\ref\LoginForm.dll
