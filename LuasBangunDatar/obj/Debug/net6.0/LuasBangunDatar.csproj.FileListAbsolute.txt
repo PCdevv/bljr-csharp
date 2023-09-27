@@ -1,0 +1,15 @@
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.csproj.AssemblyReference.cache
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.GeneratedMSBuildEditorConfig.editorconfig
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.AssemblyInfoInputs.cache
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.AssemblyInfo.cs
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.csproj.CoreCompileInputs.cache
+D:\bljr-c#\LuasBangunDatar\bin\Debug\net6.0\LuasBangunDatar.exe
+D:\bljr-c#\LuasBangunDatar\bin\Debug\net6.0\LuasBangunDatar.deps.json
+D:\bljr-c#\LuasBangunDatar\bin\Debug\net6.0\LuasBangunDatar.runtimeconfig.json
+D:\bljr-c#\LuasBangunDatar\bin\Debug\net6.0\LuasBangunDatar.dll
+D:\bljr-c#\LuasBangunDatar\bin\Debug\net6.0\LuasBangunDatar.pdb
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.dll
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\refint\LuasBangunDatar.dll
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.pdb
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\LuasBangunDatar.genruntimeconfig.cache
+D:\bljr-c#\LuasBangunDatar\obj\Debug\net6.0\ref\LuasBangunDatar.dll
